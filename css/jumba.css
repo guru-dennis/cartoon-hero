@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: -40px;
+
+}
+header h1{
+    color: #000000;
+    font-size: 150px;
+    padding-bottom: 50px;
+    padding-top: -50px;
+    
+}
+header img{
+    border-radius: 230px;
+    width: 1100px;
+    border: 10px solid #fbff11;
+}
+main{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 40px;
+    color: blue;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: #5f4410;
+}
+
+a:hover{
+    color:black;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p{
+    margin: 0;
+}
+
+p.caption{
+    font-style: italic;
+    opacity: .5;
+    margin-top: 0;
+}
