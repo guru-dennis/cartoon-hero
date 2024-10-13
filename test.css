@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(75, 49, 18) ;
+}
+h2{
+font-size: 40px;
+color:rgb(0, 0, 0);
+}
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.uppercase.big{
+color: #570926c9;
+}
+h2 span{
+color: #bfff00c9;
+}
